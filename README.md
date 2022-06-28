@@ -1,4 +1,4 @@
-# Example for TDO usage in TypeScript tests
+# Example for TDO usage in Java/TestNG tests
 
 ## Requirements
 
