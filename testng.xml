@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Example Project Tests" parallel="methods" thread-count="1">
+    <test name="general">
+        <packages>
+            <package name="com.github.qx57.tdo_example_java"/>
+        </packages>
+    </test>
+</suite>
